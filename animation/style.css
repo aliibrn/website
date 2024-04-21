@@ -1,0 +1,11 @@
+.image-container {
+    width: 400px; /* Adjust width as needed */
+    height: 300px; /* Adjust height as needed */
+    overflow: hidden; /* Hide overflowing content */
+}
+
+#sequenceImage {
+    width: 100%; /* Ensure image fills container */
+    height: auto; /* Maintain aspect ratio */
+}
+
